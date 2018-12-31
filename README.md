@@ -8,7 +8,7 @@ Ce projet (inachevé), en binôme, a été réalisé en 2016 à la faculté des 
 
 Le projet est conçu dans le cadre des cours d'intelligence artificielle. L'objectif est de modéliser, sous la forme d'un problème de satisfaction de contrainte, une grille de Kakuro afin de pouvoir, par la suite, la résoudre grâce à un algorithme.   
 
-Le dossier "grille" contient des grilles de Kakuro de test.
+Le dossier "grilles" contient des grilles de Kakuro de test.
 
 Mon coéquipier : Rémi SOULIER
 
