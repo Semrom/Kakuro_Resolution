@@ -10,6 +10,6 @@ Le projet est conçu dans le cadre des cours d'intelligence artificielle. L'obje
 
 Mon coéquipier : Rémi SOULIER
 
-Plus d'informations : http://semrom.fr/projets/kakuro.php
+Plus d'informations : https://semrom.fr/projets/kakuro.php
 
 Romain Semler ©2016
