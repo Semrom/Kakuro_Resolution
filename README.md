@@ -12,6 +12,6 @@ Le dossier "grilles" contient des grilles de Kakuro de test.
 
 Mon coéquipier : Rémi SOULIER
 
-Plus d'informations : https://romain-semler.fr/projets/kakuro.php
+Plus d'informations : https://romain-semler.fr/projets-universitaires/kakuro.php
 
 Romain Semler ©2016
